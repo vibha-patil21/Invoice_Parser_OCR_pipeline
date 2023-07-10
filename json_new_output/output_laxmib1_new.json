@@ -1,0 +1,104 @@
+{
+    "Invoice Date": "07.06.2023",
+    "Vendor Name": "COLGATE-PALMOLIVE (INDIA) LIMITED",
+    "Vendor GST": "23AAGFL3214P1ZA",
+    "Products": [
+        {
+            "Product": "COL TP 200 G - B12",
+            "Quantity": "4.00",
+            "Amount": "4285.52"
+        },
+        {
+            "Product": "COL TP 100 G - B09",
+            "Quantity": "8.00",
+            "Amount": "4831.01"
+        },
+        {
+            "Product": "Col Plax MW FM 100",
+            "Quantity": "3.00",
+            "Amount": "1666.27"
+        },
+        {
+            "Quantity": "6.00",
+            "Amount": "5276.43",
+            "Product": "Colgate Visible White 50G - B28"
+        },
+        {
+            "Quantity": "1.00",
+            "Amount": "1527.42",
+            "Product": "COL MW PEPPERMINT\n100MLx36_India"
+        },
+        {
+            "Product": "CDC 800g Saver - B02",
+            "Quantity": "1.00",
+            "Amount": "3871.14"
+        },
+        {
+            "Product": "Cibaca 65g - B11",
+            "Amount": "3483.93"
+        },
+        {
+            "Product": "CDC 200 RL - B04",
+            "Amount": "36291.56"
+        },
+        {
+            "Product": "CDC TP",
+            "Quantity": "18.00",
+            "Unit Price": "194.00",
+            "Amount": "33794.84"
+        },
+        {
+            "Product": "CDC 500G SAVER RL - B30",
+            "Quantity": "2.00",
+            "Unit Price": "294.00",
+            "Amount": "5690.56"
+        },
+        {
+            "Quantity": "24.00",
+            "Amount": "3469.71",
+            "Product": "Super Flexi 11+2 SF [M"
+        },
+        {
+            "Quantity": "24.00",
+            "Amount": "3469.71",
+            "Product": "Super Flexi 11+2 SF [S"
+        },
+        {
+            "Product": "MAXFRESH RED 300G SAVER"
+        },
+        {
+            "Product": "Col Herbal 200g - 8 dz - B21",
+            "Amount": "23536.52"
+        },
+        {
+            "Amount": "6387.36"
+        },
+        {
+            "Amount": "4285.52"
+        },
+        {
+            "Amount": "4831.01"
+        },
+        {
+            "Amount": "3483.93"
+        },
+        {
+            "Amount": "29923.88"
+        },
+        {
+            "Amount": "1666.27"
+        },
+        {
+            "Product": "Advance Demand Draft"
+        },
+        {
+            "Quantity": "1.000",
+            "Amount": "1527.42"
+        },
+        {
+            "Quantity": "2.000",
+            "Amount": "6939.42"
+        }
+    ],
+    "Total Order Value": "137719.57"
+}

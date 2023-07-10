@@ -1,0 +1,32 @@
+{
+    "Invoice Date": "3-Jun-2023",
+    "Vendor Name": "VV Enterprises",
+    "Vendor GST": "29AVZPK7221P1ZH",
+    "Products": [
+        {
+            "Quantity": "8 Pcs",
+            "Product": "Jimmy's Lemonade",
+            "Unit Price": "32.15",
+            "Amount": "257.20"
+        },
+        {
+            "Quantity": "8 Pcs",
+            "Product": "Jimmy's Tonic Water",
+            "Unit Price": "32.15",
+            "Amount": "257.20"
+        },
+        {
+            "Quantity": "8 Pcs",
+            "Product": "Jimmy's Ginger Ale",
+            "Unit Price": "32.15",
+            "Amount": "257.20"
+        },
+        {
+            "Amount": "771.60"
+        },
+        {
+            "Amount": "108.02"
+        }
+    ],
+    "Total Order Value": "1,080.00"
+}

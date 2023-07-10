@@ -1,0 +1,40 @@
+{
+    "Invoice Date": "07/06/2023",
+    "Vendor Name": "VEDIC INFOTECH",
+    "Vendor GST": "11416850000406",
+    "Products": [
+        {
+            "Quantity": "1"
+        },
+        {
+            "Amount": "93.75",
+            "Unit Price": "7.15",
+            "Product": "1 FIVE STAR OREO 420",
+            "Quantity": "3"
+        },
+        {
+            "Unit Price": "8.32",
+            "Quantity": "12",
+            "Product": "PERK RS.10 226"
+        },
+        {
+            "Unit Price": "102.15",
+            "Quantity": "3",
+            "Product": "CON FRUIT & NUT 36G RS.45",
+            "Amount": "120.53"
+        },
+        {
+            "Quantity": "7",
+            "Product": "18063200 1F30330 100.00 PCS",
+            "Unit Price": "151.33",
+            "Amount": "178.57"
+        },
+        {
+            "Product": "CON SILK DREG 60G RS.85",
+            "Quantity": "3",
+            "Unit Price": "192.95",
+            "Amount": "227.69"
+        }
+    ],
+    "Total Order Value": "ONE THOUSAND SEVENTEEN ONLY"
+}

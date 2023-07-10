@@ -1,0 +1,26 @@
+{
+    "Invoice Date": "07.06.2023",
+    "Vendor Name": "GST council",
+    "Vendor GST": "23AAGFL3214P1ZA",
+    "Products": [
+        {
+            "Quantity": "9.0",
+            "Unit Price": "26.00",
+            "Product": "CDC 200 RL",
+            "Amount": "340.91"
+        },
+        {
+            "Quantity": "1",
+            "Unit Price": "16.64",
+            "Product": "NEW_CDC 36g",
+            "Amount": "12"
+        },
+        {
+            "Product": "HSN: 3306.10.20"
+        },
+        {
+            "Amount": "0.00"
+        }
+    ],
+    "Total Order Value": "559.00"
+}
